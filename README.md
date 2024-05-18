@@ -3,6 +3,10 @@
 This python package communicates with PokeApi endpoints to retrieve pokemon data
 and to process it so that it takes the most effective move from one pokemon against another.
 
+## Pokemon Api used:
+https://pokeapi.co/
+
+
 ## Source Code
 Most of the source code is located under PokeTypeAdvantage/main and contains these files:
 - poketypeadvantage.py
